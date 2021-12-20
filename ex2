@@ -1,5 +1,3 @@
-package eee;
-
 interface iShape03
 {
     public void show();
